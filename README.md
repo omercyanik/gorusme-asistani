@@ -1,5 +1,7 @@
 # Görüşme Asistanı
 
+Canlı demo: https://gorusme-asistani.streamlit.app
+
 Müşteri danışmanı için görüşme kartı. Müşteri numarası girilir; uygulama müşteri özetini, ürün önerilerini,
 açılış cümlelerini, itiraz cevaplarını, uyum kontrol listesini ve görüşme notu şablonunu gösterir.
 
